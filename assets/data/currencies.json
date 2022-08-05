@@ -1,0 +1,904 @@
+{
+  "data": [
+    {
+    "shortTitle": "AED",
+    "title": "United Arab Emirates Dirham",
+    "flag": "assets/images/flags/aed.png",
+    "factor": "0.2723"
+  },
+    {
+    "shortTitle": "AFN",
+    "title": "Afghan Afghani",
+    "flag": "assets/images/flags/afn.png",
+    "factor": "0.01105"
+  },
+    {
+    "shortTitle": "ALL",
+    "title": "Albanian Lek",
+    "flag": "assets/images/flags/all.png",
+    "factor": "0.00878"
+  },
+  {
+    "shortTitle": "AMD",
+    "title": "Armenian Dram",
+    "flag": "assets/images/flags/amd.png",
+    "factor": "0.00248"
+  },
+  {
+    "shortTitle": "ANG",
+    "title": "Dutch Guilders",
+    "flag": "assets/images/flags/ang.png",
+    "factor": "0.55981"
+  },
+  {
+    "shortTitle": "AOA",
+    "title": "Angolan Kwanza",
+    "flag": "assets/images/flags/aoa.png",
+    "factor": "0.00232"
+  },
+ {
+    "shortTitle": "ARS",
+    "title": "Argentine Peso",
+    "flag": "assets/images/flags/ars.png",
+    "factor": "0.00754"
+  },
+  {
+    "shortTitle": "AUD",
+    "title": "Australian Dollar",
+    "flag": "assets/images/flags/aud.png",
+    "factor": "0.69682"
+  },
+  {
+    "shortTitle": "AWG",
+    "title": "Aruban Florin",
+    "flag": "assets/images/flags/awg.png",
+    "factor": "0.55599"
+  },
+  {
+    "shortTitle": "AZN",
+    "title": "Azerbaijani Manat",
+    "flag": "assets/images/flags/azn.png",
+    "factor": "0.58825"
+  },
+  {
+    "shortTitle": "BAM",
+    "title": "Bosnia-Herzegovina Convertible Mark",
+    "flag": "assets/images/flags/bam.png",
+    "factor": "0.52258"
+  },
+  {
+    "shortTitle": "BBD",
+    "title": "Barbadian Dollar",
+    "flag": "assets/images/flags/bbd.png",
+    "factor": "0.50018"
+  },
+    {
+    "shortTitle": "BDT",
+    "title": "Bangladeshi Taka",
+    "flag": "assets/images/flags/bdt.png",
+    "factor": "0.01055"
+  },
+  {
+    "shortTitle": "BGN",
+    "title": "Bulgarian Lev",
+    "flag": "assets/images/flags/bgn.png",
+    "factor": "0.52355"
+  },
+  {
+    "shortTitle": "BHD",
+    "title": "Bahraini Dinar",
+    "flag": "assets/images/flags/bhd.png",
+    "factor": "2.66018"
+  },
+ {
+    "shortTitle": "BIF",
+    "title": "Burundian Franc",
+    "flag": "assets/images/flags/bif.png",
+    "factor": "0.00049"
+  },
+  {
+    "shortTitle": "BMD",
+    "title": "Bermudian Dollar",
+    "flag": "assets/images/flags/bmd.png",
+    "factor": "1.00106"
+  },
+  {
+    "shortTitle": "BND",
+    "title": "Bruneian Dollar",
+    "flag": "assets/images/flags/bnd.png",
+    "factor": "0.72689"
+  },
+  {
+    "shortTitle": "BOB",
+    "title": "Bolivian Boliviano",
+    "flag": "assets/images/flags/bob.png",
+    "factor": "0.14551"
+  },
+  {
+    "shortTitle": "BRL",
+    "title": "Brazilian Real",
+    "flag": "assets/images/flags/brl.png",
+    "factor": "0.19195"
+  },
+  {
+    "shortTitle": "BSD",
+    "title": "Bahamian Dollar",
+    "flag": "assets/images/flags/bsd.png",
+    "factor": "0.99872"
+  },
+  {
+    "shortTitle": "BTN",
+    "title": "Bhutanese Ngultrum",
+    "flag": "assets/images/flags/btn.png",
+    "factor": "0.01262"
+  },
+  {
+    "shortTitle": "BWP",
+    "title": "Botswanan Pula",
+    "flag": "assets/images/flags/bwp.png",
+    "factor": "0.07835"
+  },
+  {
+    "shortTitle": "BZD",
+    "title": "Belizean Dollar",
+    "flag": "assets/images/flags/bzd.png",
+    "factor": "0.48381"
+  },
+  {
+    "shortTitle": "CAD",
+    "title": "Canadian Dollar",
+    "flag": "assets/images/flags/cad.png",
+    "factor": "0.77814"
+  },
+  {
+    "shortTitle": "CDF",
+    "title": "Congolese Franc",
+    "flag": "assets/images/flags/cdf.png",
+    "factor": "0.0005"
+  },
+  {
+    "shortTitle": "CHF",
+    "title": "Swiss Franc",
+    "flag": "assets/images/flags/chf.png",
+    "factor": "1.04311"
+  },
+  {
+    "shortTitle": "CLP",
+    "title": "Chilean Peso",
+    "flag": "assets/images/flags/clp.png",
+    "factor": "0.0011"
+  },
+  {
+    "shortTitle": "CNH",
+    "title": "Chinese Yuan Renminbi (offshore)",
+    "flag": "assets/images/flags/cny.png",
+    "factor": "0.14796"
+  },
+  {
+    "shortTitle": "CNY",
+    "title": "Chinese Yuan",
+    "flag": "assets/images/flags/cny.png",
+    "factor": "0.14803"
+  },
+  {
+    "shortTitle": "COP",
+    "title": "Colombian Peso",
+    "flag": "assets/images/flags/cop.png",
+    "factor": "0.00023"
+  },
+  {
+    "shortTitle": "CUP",
+    "title": "Cuban Peso",
+    "flag": "assets/images/flags/cup.png",
+    "factor": "0.04"
+  },
+  {
+    "shortTitle": "CVE",
+    "title": "Cape Verdean Escudo",
+    "flag": "assets/images/flags/cve.png",
+    "factor": "0.00925"
+  },
+  {
+    "shortTitle": "CZK",
+    "title": "Czech Republic Koruna",
+    "flag": "assets/images/flags/czk.png",
+    "factor": "0.04142"
+  },
+  {
+    "shortTitle": "DJF",
+    "title": "Djiboutian Franc",
+    "flag": "assets/images/flags/djf.png",
+    "factor": "0.00563"
+  },
+ {
+    "shortTitle": "DKK",
+    "title": "Danish Krone",
+    "flag": "assets/images/flags/dkk.png",
+    "factor": "0.13704"
+  },
+{
+    "shortTitle": "DOP",
+    "title": "Dominican Peso",
+    "flag": "assets/images/flags/dop.png",
+    "factor": "0.01815"
+  },
+  {
+    "shortTitle": "DZD",
+    "title": "Algerian Dinar",
+    "flag": "assets/images/flags/dzd.png",
+    "factor": "0.00686"
+  },
+ {
+    "shortTitle": "ECS",
+    "title": "Ecuador Sucre",
+    "flag": "assets/images/flags/xaf.png",
+    "factor": "0.00004"
+  },
+  {
+    "shortTitle": "EGP",
+    "title": "Egyptian Pound",
+    "flag": "assets/images/flags/egp.png",
+    "factor": "0.05222"
+  },
+  {
+    "shortTitle": "ERN",
+    "title": "Eritrean Nakfa",
+    "flag": "assets/images/flags/ern.png",
+    "factor": "0.06667"
+  },
+  {
+    "shortTitle": "ETB",
+    "title": "Ethiopian Birr",
+    "flag": "assets/images/flags/etb.png",
+    "factor": "0.01891"
+  },
+ {
+    "shortTitle": "EUR",
+    "title": "Euro",
+    "flag": "assets/images/flags/eur.png",
+    "factor": "1.01995"
+  },
+   {
+    "shortTitle": "FJD",
+    "title": "Fijian Dollar",
+    "flag": "assets/images/flags/fjd.png",
+    "factor": "0.45314"
+  },
+   {
+    "shortTitle": "FKP",
+    "title": "Falkland Islands Pound",
+    "flag": "assets/images/flags/fkp.png",
+    "factor": "1.21474"
+  },
+   {
+    "shortTitle": "GBP",
+    "title": "British Pound Sterling",
+    "flag": "assets/images/flags/gbp.png",
+    "factor": "1.21474"
+  },
+   {
+    "shortTitle": "GEL",
+    "title": "Georgian Lari",
+    "flag": "assets/images/flags/gel.png",
+    "factor": "0.36248"
+  },
+ {
+    "shortTitle": "GHS",
+    "title": "Ghanaian Cedi",
+    "flag": "assets/images/flags/ghs.png",
+    "factor": "0.11595"
+  },
+ {
+    "shortTitle": "GIP",
+    "title": "Gibraltar Pound",
+    "flag": "assets/images/flags/gip.png",
+    "factor": "1.21474"
+  },
+  {
+    "shortTitle": "GMD",
+    "title": "Gambian Dalasi",
+    "flag": "assets/images/flags/gmd.png",
+    "factor": "0.01812"
+  },
+  {
+    "shortTitle": "GNF",
+    "title": "Guinean Franc",
+    "flag": "assets/images/flags/gnf.png",
+    "factor": "0.00011"
+  },
+   {
+    "shortTitle": "GTQ",
+    "title": "Guatemalan Quetzal",
+    "flag": "assets/images/flags/gtq.png",
+    "factor": "0.12592"
+  },
+ {
+    "shortTitle": "GYD",
+    "title": "Guyanaese Dollar",
+    "flag": "assets/images/flags/gyd.png",
+    "factor": "0.00456"
+  },
+  {
+    "shortTitle": "HKD",
+    "title": "Hong Kong Dollar",
+    "flag": "assets/images/flags/hkd.png",
+    "factor": "0.12739"
+  },
+ {
+    "shortTitle": "HNL",
+    "title": "Honduran Lempira",
+    "flag": "assets/images/flags/hnl.png",
+    "factor": "0.03984"
+  },
+  {
+    "shortTitle": "HRK",
+    "title": "Croatian Kuna",
+    "flag": "assets/images/flags/hrk.png",
+    "factor": "0.13559"
+  },
+  {
+    "shortTitle": "HTG",
+    "title": "Haitian Gourde",
+    "flag": "assets/images/flags/htg.png",
+    "factor": "0.00836"
+  },
+ {
+    "shortTitle": "HUF",
+    "title": "Hungarian Forint",
+    "flag": "assets/images/flags/huf.png",
+    "factor": "0.00258"
+  },
+  {
+    "shortTitle": "IDR",
+    "title": "Indonesian Rupiah",
+    "flag": "assets/images/flags/idr.png",
+    "factor": "0.00007"
+  },
+ {
+    "shortTitle": "ILS",
+    "title": "Israeli New Sheqel",
+    "flag": "assets/images/flags/ils.png",
+    "factor": "0.29799"
+  },
+ {
+    "shortTitle": "INR",
+    "title": "Indian Rupee",
+    "flag": "assets/images/flags/inr.png",
+    "factor": "0.01261"
+  },
+  {
+    "shortTitle": "IQD",
+    "title": "Iraqi Dinar",
+    "flag": "assets/images/flags/iqd.png",
+    "factor": "0.00067"
+  },
+  {
+    "shortTitle": "IRR",
+    "title": "Iranian Rial",
+    "flag": "assets/images/flags/irr.png",
+    "factor": "0.00002"
+  },
+ {
+    "shortTitle": "ISK",
+    "title": "Icelandic Krona",
+    "flag": "assets/images/flags/isk.png",
+    "factor": "0.00732"
+  },
+ {
+    "shortTitle": "JMD",
+    "title": "Jamaican Dollar",
+    "flag": "assets/images/flags/jmd.png",
+    "factor": "0.00645"
+  },
+  {
+    "shortTitle": "JOD",
+    "title": "Jordanian Dinar",
+    "flag": "assets/images/flags/jod.png",
+    "factor": "1.41044"
+  },
+ {
+    "shortTitle": "JPY",
+    "title": "Japanese Yen",
+    "flag": "assets/images/flags/jpy.png",
+    "factor": "0.00749"
+  },
+   {
+    "shortTitle": "KES",
+    "title": "Kenyan Shilling",
+    "flag": "assets/images/flags/kes.png",
+    "factor": "0.00833"
+  },
+   {
+    "shortTitle": "KGS",
+    "title": "Kyrgystani Som",
+    "flag": "assets/images/flags/kgs.png",
+    "factor": "0.01204"
+  },
+ {
+    "shortTitle": "KHR",
+    "title": "Cambodian Riel",
+    "flag": "assets/images/flags/khr.png",
+    "factor": "0.00024"
+  },
+   {
+    "shortTitle": "KMF",
+    "title": "Comorian Franc",
+    "flag": "assets/images/flags/kmf.png",
+    "factor": "0.00207"
+  },
+  {
+    "shortTitle": "KPW",
+    "title": "North Korean Won",
+    "flag": "assets/images/flags/kpw.png",
+    "factor": "0.00741"
+  },
+   {
+    "shortTitle": "KRW",
+    "title": "South Korean Won",
+    "flag": "assets/images/flags/krw.png",
+    "factor": "0.00076"
+  },
+   {
+    "shortTitle": "KWD",
+    "title": "Kuwaiti Dinar",
+    "flag": "assets/images/flags/kwd.png",
+    "factor": "3.25167"
+  },
+  {
+    "shortTitle": "KYD",
+    "title": "Caymanian Dollar",
+    "flag": "assets/images/flags/kyd.png",
+    "factor": "1.2"
+  },
+   {
+    "shortTitle": "KZT",
+    "title": "Kazakhstani Tenge",
+    "flag": "assets/images/flags/kzt.png",
+    "factor": "0.00209"
+  },
+   {
+    "shortTitle": "LAK",
+    "title": "Laotian Kip",
+    "flag": "assets/images/flags/lak.png",
+    "factor": "0.00006"
+  },
+   {
+    "shortTitle": "LBP",
+    "title": "Lebanese Pound",
+    "flag": "assets/images/flags/lbp.png",
+    "factor": "0.00066"
+  },
+  {
+    "shortTitle": "LKR",
+    "title": "Sri Lankan Rupee",
+    "flag": "assets/images/flags/lkr.png",
+    "factor": "0.00277"
+  },
+   {
+    "shortTitle": "LRD",
+    "title": "ULiberian Dollar",
+    "flag": "assets/images/flags/lrd.png",
+    "factor": "0.00646"
+  },
+   {
+    "shortTitle": "LSL",
+    "title": "Basotho Maloti",
+    "flag": "assets/images/flags/lsl.png",
+    "factor": "0.05984"
+  },
+   {
+    "shortTitle": "LYD",
+    "title": "Libyan Dinar",
+    "flag": "assets/images/flags/lyd.png",
+    "factor": "0.20418"
+  },
+   {
+    "shortTitle": "MAD",
+    "title": "Moroccan Dirham",
+    "flag": "assets/images/flags/mad.png",
+    "factor": "0.09566"
+  },
+   {
+    "shortTitle": "MDL",
+    "title": "Moldovan Leu",
+    "flag": "assets/images/flags/mdl.png",
+    "factor": "0.05124"
+  },
+   {
+    "shortTitle": "MGA",
+    "title": "Malagasy Ariary",
+    "flag": "assets/images/flags/mga.png",
+    "factor": "0.00023"
+  },
+  {
+    "shortTitle": "MKD",
+    "title": "Macedonian Denar",
+    "flag": "assets/images/flags/mkd.png",
+    "factor": "0.01633"
+  },
+  {
+    "shortTitle": "MMK",
+    "title": "Myanma Kyat",
+    "flag": "assets/images/flags/mmk.png",
+    "factor": "0.00053"
+  },
+  {
+    "shortTitle": "MNT",
+    "title": "Mongolian Tugrik",
+    "flag": "assets/images/flags/mnt.png",
+    "factor": "0.00038"
+  },
+   {
+    "shortTitle": "MOP",
+    "title": "Macanese Pataca",
+    "flag": "assets/images/flags/mop.png",
+    "factor": "0.12368"
+  },
+  {
+    "shortTitle": "MRU",
+    "title": "Mauritanian Ouguiya",
+    "flag": "assets/images/flags/mro.png",
+    "factor": "0.02629"
+  },
+   {
+    "shortTitle": "MUR",
+    "title": "Mauritian Rupee",
+    "flag": "assets/images/flags/mur.png",
+    "factor": "0.02158"
+  },
+  {
+    "shortTitle": "MVR",
+    "title": "Maldivian Rufiyaa",
+    "flag": "assets/images/flags/mvr.png",
+    "factor": "0.06492"
+  },
+   {
+    "shortTitle": "MWK",
+    "title": "Malawian Kwacha",
+    "flag": "assets/images/flags/mwk.png",
+    "factor": "0.00097"
+  },
+   {
+    "shortTitle": "MXN",
+    "title": "Mexican Peso",
+    "flag": "assets/images/flags/mxn.png",
+    "factor": "0.049"
+  },
+   {
+    "shortTitle": "MYR",
+    "title": "Malaysian Ringgit",
+    "flag": "assets/images/flags/myr.png",
+    "factor": "0.22426"
+  },
+   {
+    "shortTitle": "MZN",
+    "title": "Mozambican Metical",
+    "flag": "assets/images/flags/mzn.png",
+    "factor": "0.01551"
+  },
+  {
+    "shortTitle": "NAD",
+    "title": "Namibian Dollar",
+    "flag": "assets/images/flags/nad.png",
+    "factor": "0.05984"
+  },
+  {
+    "shortTitle": "NGN",
+    "title": "Nigerian Naira",
+    "flag": "assets/images/flags/ngn.png",
+    "factor": "0.0024"
+  },
+  {
+    "shortTitle": "NOK",
+    "title": "Norwegian Krone",
+    "flag": "assets/images/flags/nok.png",
+    "factor": "0.10279"
+  },
+   {
+    "shortTitle": "NPR",
+    "title": "Nepalese Rupee",
+    "flag": "assets/images/flags/npr.png",
+    "factor": "0.00778"
+  },
+ {
+    "shortTitle": "NZD",
+    "title": "New Zealand Dollar",
+    "flag": "assets/images/flags/nzd.png",
+    "factor": "0.62953"
+  },
+  {
+    "shortTitle": "OMR",
+    "title": "Omani Rial",
+    "flag": "assets/images/flags/omr.png",
+    "factor": "2.59012"
+  },
+   {
+    "shortTitle": "PAB",
+    "title": "Panamanian Balboa",
+    "flag": "assets/images/flags/pab.png",
+    "factor": "1"
+  },
+  {
+    "shortTitle": "PEN",
+    "title": "Peruvian Nuevo Sol",
+    "flag": "assets/images/flags/pen.png",
+    "factor": "0.25165"
+  },
+   {
+    "shortTitle": "PGK",
+    "title": "Papua New Guinean Kina",
+    "flag": "assets/images/flags/pgk.png",
+    "factor": "0.27683"
+  },
+  {
+    "shortTitle": "PHP",
+    "title": "Philippine Peso",
+    "flag": "assets/images/flags/php.png",
+    "factor": "0.01797"
+  },
+  {
+    "shortTitle": "PKR",
+    "title": "Pakistani Rupee",
+    "flag": "assets/images/flags/pkr.png",
+    "factor": "0.00438"
+  },
+ {
+    "shortTitle": "PLN",
+    "title": "Polish Zloty",
+    "flag": "assets/images/flags/pln.png",
+    "factor": "0.21636"
+  },
+  {
+    "shortTitle": "PYG",
+    "title": "Paraguayan Guarani",
+    "flag": "assets/images/flags/pyg.png",
+    "factor": "0.00014"
+  },
+ {
+    "shortTitle": "QAR",
+    "title": "Qatari Rial",
+    "flag": "assets/images/flags/qar.png",
+    "factor": "0.27456"
+  },
+ {
+    "shortTitle": "RON",
+    "title": "Romanian Leu",
+    "flag": "assets/images/flags/ron.png",
+    "factor": "0.20685"
+  },
+ {
+    "shortTitle": "RSD",
+    "title": "Serbian Dinar",
+    "flag": "assets/images/flags/rsd.png",
+    "factor": "0.00868"
+  },
+ {
+    "shortTitle": "RUB",
+    "title": "Russian Ruble",
+    "flag": "assets/images/flags/rub.png",
+    "factor": "0.01637"
+  },
+ {
+    "shortTitle": "RWF",
+    "title": "Rwandan Franc",
+    "flag": "assets/images/flags/rwf.png",
+    "factor": "0.00096"
+  },
+   {
+    "shortTitle": "SAR",
+    "title": "Saudi Arabian Riyal",
+    "flag": "assets/images/flags/sar.png",
+    "factor": "0.2663"
+  },
+   {
+    "shortTitle": "SCR",
+    "title": "Seychellois Rupee",
+    "flag": "assets/images/flags/scr.png",
+    "factor": "0.07212"
+  },
+   {
+    "shortTitle": "SDG",
+    "title": "Sudanese Pound",
+    "flag": "assets/images/flags/sdg.png",
+    "factor": "0.00218"
+  },
+ {
+    "shortTitle": "SEK",
+    "title": "Swedish Krona",
+    "flag": "assets/images/flags/sek.png",
+    "factor": "0.09832"
+  },
+ {
+    "shortTitle": "SGD",
+    "title": "Singapore Dollar",
+    "flag": "assets/images/flags/sgd.png",
+    "factor": "0.72539"
+  },
+  {
+    "shortTitle": "SHP",
+    "title": "Saint Helena Pound",
+    "flag": "assets/images/flags/shp.png",
+    "factor": "1.21474"
+  },
+ {
+    "shortTitle": "SLL",
+    "title": "Sierra Leonean Leone",
+    "flag": "assets/images/flags/sll.png",
+    "factor": "0.00007"
+  },
+ {
+    "shortTitle": "SOS",
+    "title": "Somali Shilling",
+    "flag": "assets/images/flags/sos.png",
+    "factor": "0.00167"
+  },
+   {
+    "shortTitle": "SRD",
+    "title": "Surinamese Dollar",
+    "flag": "assets/images/flags/srd.png",
+    "factor": "0.04012"
+  },
+  {
+    "shortTitle": "SYP",
+    "title": "Syrian Pound",
+    "flag": "assets/images/flags/syp.png",
+    "factor": "0.0004"
+  },
+  {
+    "shortTitle": "SZL",
+    "title": "Swazi Emalangeni",
+    "flag": "assets/images/flags/szl.png",
+    "factor": "0.05984"
+  },
+   {
+    "shortTitle": "THB",
+    "title": "Thai Baht",
+    "flag": "assets/images/flags/thb.png",
+    "factor": "0.02775"
+  },
+ {
+    "shortTitle": "TJS",
+    "title": "Tajikistani Somoni",
+    "flag": "assets/images/flags/tjs.png",
+    "factor": "0.09639"
+  },
+   {
+    "shortTitle": "TMT",
+    "title": "Turkmenistani Manat",
+    "flag": "assets/images/flags/tmt.png",
+    "factor": "0.27387"
+  },
+   {
+    "shortTitle": "TND",
+    "title": "Tunisian Dinar",
+    "flag": "assets/images/flags/tnd.png",
+    "factor": "0.31555"
+  },
+   {
+    "shortTitle": "TOP",
+    "title": "Tongan Pa'anga",
+    "flag": "assets/images/flags/top.png",
+    "factor": "0.41668"
+  },
+  {
+    "shortTitle": "TRY",
+    "title": "Turkish Lira",
+    "flag": "assets/images/flags/try.png",
+    "factor": "0.05569"
+  },
+   {
+    "shortTitle": "TTD",
+    "title": "Trinidad and Tobago Dollar",
+    "flag": "assets/images/flags/ttd.png",
+    "factor": "0.14412"
+  },
+ {
+    "shortTitle": "TWD",
+    "title": "Taiwan New Dollar",
+    "flag": "assets/images/flags/twd.png",
+    "factor": "0.03333"
+  },
+ {
+    "shortTitle": "TZS",
+    "title": "Tanzanian Shilling",
+    "flag": "assets/images/flags/tzs.png",
+    "factor": "0.00043"
+  },
+   {
+    "shortTitle": "UAH",
+    "title": "Ukrainian Hryvnia",
+    "flag": "assets/images/flags/uah.png",
+    "factor": "0.02697"
+  },
+  {
+    "shortTitle": "UGX",
+    "title": "Ugandan Shilling",
+    "flag": "assets/images/flags/ugx.png",
+    "factor": "0.00026"
+  },
+   {
+    "shortTitle": "USD",
+    "title": "United States Dollar",
+    "flag": "assets/images/flags/usd.png",
+    "factor": "1.0"
+  },
+   {
+    "shortTitle": "UYU",
+    "title": "Uruguayan Peso",
+    "flag": "assets/images/flags/uyu.png",
+    "factor": "0.02411"
+  },
+   {
+    "shortTitle": "UZS",
+    "title": "Uzbekistan Som",
+    "flag": "assets/images/flags/uzs.png",
+    "factor": "0.00009"
+  },
+  {
+    "shortTitle": "VND",
+    "title": "Vietnamese Dong",
+    "flag": "assets/images/flags/vnd.png",
+    "factor": "0.00004"
+  },
+   {
+    "shortTitle": "VUV",
+    "title": "Ni-Vanuatu Vatu",
+    "flag": "assets/images/flags/vuv.png",
+    "factor": "0.00876"
+  },
+ {
+    "shortTitle": "WST",
+    "title": "Samoan Tala",
+    "flag": "assets/images/flags/wst.png",
+    "factor": "0.364"
+  },
+   {
+    "shortTitle": "XAF",
+    "title": "CFA Franc BEAC",
+    "flag": "assets/images/flags/xaf.png",
+    "factor": "0.00155"
+  },
+  {
+    "shortTitle": "XBT",
+    "title": "Bitcoin",
+    "flag": "assets/images/flags/xbt.png",
+    "factor": "22803.1"
+  },
+  {
+    "shortTitle": "XCD",
+    "title": "East Caribbean Dollar",
+    "flag": "assets/images/flags/xcd.png",
+    "factor": "0.37037"
+  },
+   {
+    "shortTitle": "XOF",
+    "title": "CFA Franc BCEAO",
+    "flag": "assets/images/flags/xof.png",
+    "factor": "0.00155"
+  },
+    {
+    "shortTitle": "XPF",
+    "title": "CFP Franc",
+    "flag": "assets/images/flags/xpf.png",
+    "factor": "0.00855"
+  },
+   {
+    "shortTitle": "YER",
+    "title": "Yemeni Rial",
+    "flag": "assets/images/flags/yer.png",
+    "factor": "0.00399"
+  },
+   {
+    "shortTitle": "ZAR",
+    "title": "South African Rand",
+    "flag": "assets/images/flags/zar.png",
+    "factor": "0.05984"
+  },
+   {
+    "shortTitle": "ZMW",
+    "title": "Zambian Kwacha",
+    "flag": "assets/images/flags/zmw.png",
+    "factor": "0.06202"
+  }
+  ]
+}
